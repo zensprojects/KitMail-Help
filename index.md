@@ -1,4 +1,3 @@
-# help with [kitmail](http://zensprojects.ct8.pl/) 
 ##### also known as zensprojectsMail
 
 ## logging in
